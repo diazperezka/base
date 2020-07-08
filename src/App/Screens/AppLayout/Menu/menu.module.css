@@ -1,0 +1,32 @@
+.upperCase {
+  text-transform: uppercase;
+}
+
+.menuDirection {
+  justify-content: space-between;
+}
+
+.spaceAround {
+  justify-content: space-around;
+}
+
+.menu {
+  top: 0px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-size: 0.8rem;
+  font-family: "Encode Sans", sans-serif;
+  position: fixed;
+  background: rgba(0, 0, 0, 0.75) !important;
+  z-index: 1050;
+  width: 100%;
+  color: #fff;
+}
+
+.menuArrows {
+  font-size: 2vw;
+}
+
+.textWhite {
+  color: #fff !important;
+}
